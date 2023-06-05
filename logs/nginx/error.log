@@ -1,0 +1,1 @@
+2023/02/18 23:03:11 [alert] 61984#0: *308 setsockopt(TCP_NODELAY) failed (22: Invalid argument) while keepalive, client: 127.0.0.1, server: 0.0.0.0:10013

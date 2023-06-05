@@ -1,0 +1,14 @@
+[13-Feb-2023 08:19:33] NOTICE: fpm is running, pid 70936
+[13-Feb-2023 08:19:33] NOTICE: ready to handle connections
+[13-Feb-2023 10:03:06] NOTICE: Terminating ...
+[13-Feb-2023 10:03:06] NOTICE: Terminating ...
+[13-Feb-2023 10:03:06] NOTICE: exiting, bye-bye!
+[18-Feb-2023 22:50:37] NOTICE: fpm is running, pid 61973
+[18-Feb-2023 22:50:37] NOTICE: ready to handle connections
+[18-Feb-2023 22:50:42] WARNING: [pool www] child 61990 exited on signal 11 (SIGSEGV) after 4.636908 seconds from start
+[18-Feb-2023 22:50:42] NOTICE: [pool www] child 62009 started
+[18-Feb-2023 23:23:56] NOTICE: Terminating ...
+[18-Feb-2023 23:23:56] NOTICE: Terminating ...
+[18-Feb-2023 23:23:56] NOTICE: exiting, bye-bye!
+[05-Jun-2023 15:32:00] NOTICE: fpm is running, pid 9063
+[05-Jun-2023 15:32:00] NOTICE: ready to handle connections
